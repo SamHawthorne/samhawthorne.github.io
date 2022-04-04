@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on IGGY 的博客</title>
+    <link>//samhawthorne.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on IGGY 的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Mar 2022 23:51:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/tags/%E9%9A%8F%E7%AC%94/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022.03.31 测试</title>
+      <link>//samhawthorne.github.io/2022/03/30/220331test/</link>
+      <pubDate>Wed, 30 Mar 2022 23:51:00 +0000</pubDate>
+      
+      <guid>//samhawthorne.github.io/2022/03/30/220331test/</guid>
+      <description>今天研究了下怎么用github搭建个人网站，惊喜的发现，居然可以用notion做数据库，同步到github pages 用hugo渲染主页！
+了解了一下原理，有时间操作一下。
+很奇怪，最近怎么又开始研究起个人博客来了？
+之前的博客用手机做服务器，后来手机开不了机，荒废了。
+里面还有一些数据没有备份。找个时间备份出来吧。
+昨天把图委的公众号找回来了。很顺利。
+没跟任何人打招呼。会不会不太好？
+或许不是想要一个博客，只是想记录自己的生活，</description>
+    </item>
+    
+  </channel>
+</rss>
