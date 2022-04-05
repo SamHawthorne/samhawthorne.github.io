@@ -30,7 +30,7 @@ jobs:
         # so you should set another token
         img_store_github_token: ${{ secrets.CHECKOUT_TOKEN }}
         img_store_github_repo: SamHawthorne/pic
-        img_store_github_branch: gh-pages
+        img_store_github_branch: master
         # md_store_path_prefix: ${{ secrets.MD_STORE_PATH_PREFIX }}
 
     - name: push to github
