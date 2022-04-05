@@ -6,7 +6,18 @@
     <description>Recent content in 随笔 on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 Apr 2022 00:38:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/categories/%E9%9A%8F%E7%AC%94/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 21:04:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/categories/%E9%9A%8F%E7%AC%94/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>尝试了很多方法</title>
+      <link>//samhawthorne.github.io/2022/04/05/howtifix/</link>
+      <pubDate>Tue, 05 Apr 2022 21:04:00 +0000</pubDate>
+      
+      <guid>//samhawthorne.github.io/2022/04/05/howtifix/</guid>
+      <description>尝试了很多方法，还是没有解决问题！！
+目前卡在子页面404的问题上。
+难道是yml代码的问题吗？</description>
+    </item>
+    
     <item>
       <title>5555</title>
       <link>//samhawthorne.github.io/2022/04/05/5555/</link>
