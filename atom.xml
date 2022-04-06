@@ -6,7 +6,30 @@
     <description>Recent content on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 05 Apr 2022 23:40:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:11:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随便写点</title>
+      <link>//samhawthorne.github.io/2022/04/06/suibian/</link>
+      <pubDate>Wed, 06 Apr 2022 00:11:00 +0000</pubDate>
+      
+      <guid>//samhawthorne.github.io/2022/04/06/suibian/</guid>
+      <description>顶顶顶顶
+的地方反
+纷纷大幅</description>
+    </item>
+    
+    <item>
+      <title>部署成功总结</title>
+      <link>//samhawthorne.github.io/2022/04/06/bushu/</link>
+      <pubDate>Wed, 06 Apr 2022 00:10:00 +0000</pubDate>
+      
+      <guid>//samhawthorne.github.io/2022/04/06/bushu/</guid>
+      <description>用了两周时间，终于把网址成功部署到GitHub上了。
+ https://samhawthorne.github.io/  这是网址↑↑↑
+总结一下部署的过程：
+ 先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。     </description>
+    </item>
+    
     <item>
       <title>图图图</title>
       <link>//samhawthorne.github.io/2022/04/05/tututu/</link>
