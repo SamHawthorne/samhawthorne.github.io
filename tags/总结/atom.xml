@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>IGGY 的博客</title>
-    <link>//samhawthorne.github.io/</link>
-    <description>Recent content on IGGY 的博客</description>
+    <title>总结 on IGGY 的博客</title>
+    <link>//samhawthorne.github.io/tags/%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 总结 on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:10:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:10:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/tags/%E6%80%BB%E7%BB%93/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>部署成功总结</title>
       <link>//samhawthorne.github.io/2022/04/06/bushu/</link>
@@ -35,17 +35,6 @@
   在notion写文章。
   automate自动获取api同步到GitHub。只有新的一行automate才会读取。如果是更新原来的文章，需要手动在GitHub提交issue：notion-ci。</description>
     </item>
-    
-    
-    <item>
-      <title>Links</title>
-      <link>//samhawthorne.github.io/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/links/</guid>
-      <description>links</description>
-    </item>
-    
     
   </channel>
 </rss>
