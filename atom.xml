@@ -5,125 +5,7 @@
     <link>//samhawthorne.github.io/</link>
     <description>Recent content on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:11:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>随便写点</title>
-      <link>//samhawthorne.github.io/2022/04/06/suibian/</link>
-      <pubDate>Wed, 06 Apr 2022 00:11:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/06/suibian/</guid>
-      <description>顶顶顶顶
-的地方反
-纷纷大幅</description>
-    </item>
-    
-    <item>
-      <title>部署成功总结</title>
-      <link>//samhawthorne.github.io/2022/04/06/bushu/</link>
-      <pubDate>Wed, 06 Apr 2022 00:10:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/06/bushu/</guid>
-      <description>用了两周时间，终于把网址成功部署到GitHub上了。
- https://samhawthorne.github.io/  这是网址↑↑↑
-总结一下部署的过程：
- 先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。    配置.yml文件
-  新建.github workflows两个文件夹。
-  配置自动化部署文件。
-  </description>
-    </item>
-    
-    <item>
-      <title>图图图</title>
-      <link>//samhawthorne.github.io/2022/04/05/tututu/</link>
-      <pubDate>Tue, 05 Apr 2022 23:40:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/05/tututu/</guid>
-      <description>改了
-notion_to_blog.yml的代码
-看一下图能不能发出去。
-代码没改好，再改一下。。
-刚刚删了这里的，IMG_STORE_GITHUB_TOKEN:</description>
-    </item>
-    
-    <item>
-      <title>尝试加图失败</title>
-      <link>//samhawthorne.github.io/2022/04/05/picfail/</link>
-      <pubDate>Tue, 05 Apr 2022 22:58:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/05/picfail/</guid>
-      <description>加一张图片看看图片的地址：
-加图片失败！！！
-换一种方法吧！
-加好了，上面是图片</description>
-    </item>
-    
-    <item>
-      <title>尝试了很多方法</title>
-      <link>//samhawthorne.github.io/2022/04/05/howtifix/</link>
-      <pubDate>Tue, 05 Apr 2022 21:04:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/05/howtifix/</guid>
-      <description>尝试了很多方法，还是没有解决问题！！
-目前卡在子页面404的问题上。
-难道是yml代码的问题吗？</description>
-    </item>
-    
-    <item>
-      <title>5555</title>
-      <link>//samhawthorne.github.io/2022/04/05/5555/</link>
-      <pubDate>Tue, 05 Apr 2022 00:38:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/05/5555/</guid>
-      <description>没反应啊！！！</description>
-    </item>
-    
-    <item>
-      <title>2022.04.05 再发一次</title>
-      <link>//samhawthorne.github.io/2022/04/05/220405one/</link>
-      <pubDate>Tue, 05 Apr 2022 00:20:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/05/220405one/</guid>
-      <description>页面404
-解决了一个问题，又有新的问题出现。
-快要成功了，加油啊！</description>
-    </item>
-    
-    <item>
-      <title> 2022.04.01 周五</title>
-      <link>//samhawthorne.github.io/2022/03/30/220401fri/</link>
-      <pubDate>Wed, 30 Mar 2022 23:51:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/03/30/220401fri/</guid>
-      <description>今天周五了，工作进度完成的怎么样了？</description>
-    </item>
-    
-    <item>
-      <title>2022.03.31 测试</title>
-      <link>//samhawthorne.github.io/2022/03/30/220331test/</link>
-      <pubDate>Wed, 30 Mar 2022 23:51:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/03/30/220331test/</guid>
-      <description>今天研究了下怎么用github搭建个人网站，惊喜的发现，居然可以用notion做数据库，同步到github pages 用hugo渲染主页！
-了解了一下原理，有时间操作一下。
-很奇怪，最近怎么又开始研究起个人博客来了？
-之前的博客用手机做服务器，后来手机开不了机，荒废了。
-里面还有一些数据没有备份。找个时间备份出来吧。
-昨天把图委的公众号找回来了。很顺利。
-没跟任何人打招呼。会不会不太好？
-或许不是想要一个博客，只是想记录自己的生活，</description>
-    </item>
-    
-    <item>
-      <title>2022.04.01 搭建</title>
-      <link>//samhawthorne.github.io/2022/03/30/220401build/</link>
-      <pubDate>Wed, 30 Mar 2022 23:51:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/03/30/220401build/</guid>
-      <description>这一周都在搞博客网址的搭建。
-希望尽快搭建好！</description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="//samhawthorne.github.io/atom.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Links</title>
@@ -134,18 +16,6 @@ notion_to_blog.yml的代码
       <description>links</description>
     </item>
     
-    
-    <item>
-      <title>部署成功</title>
-      <link>//samhawthorne.github.io/1/01/01/success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/1/01/01/success/</guid>
-      <description>用了两周时间，终于把网址成功部署到GitHub上了。
- https://samhawthorne.github.io/  这是网址↑↑↑
-总结一下部署的过程：
- 先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。     </description>
-    </item>
     
   </channel>
 </rss>
