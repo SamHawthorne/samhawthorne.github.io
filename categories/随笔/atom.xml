@@ -27,7 +27,10 @@
       <description>用了两周时间，终于把网址成功部署到GitHub上了。
  https://samhawthorne.github.io/  这是网址↑↑↑
 总结一下部署的过程：
- 先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。     </description>
+ 先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。    配置.yml文件
+  新建.github workflows两个文件夹。
+  配置自动化部署文件。
+  </description>
     </item>
     
     <item>
