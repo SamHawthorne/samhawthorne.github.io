@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>生活 on IGGY 的博客</title>
-    <link>//samhawthorne.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
-    <description>Recent content in 生活 on IGGY 的博客</description>
+    <title>碎片 on IGGY 的博客</title>
+    <link>//samhawthorne.github.io/tags/%E7%A2%8E%E7%89%87/</link>
+    <description>Recent content in 碎片 on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:51:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/categories/%E7%94%9F%E6%B4%BB/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:51:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/tags/%E7%A2%8E%E7%89%87/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>清了三万张照片</title>
       <link>//samhawthorne.github.io/2022/04/12/cleanphoto/</link>
@@ -22,16 +22,6 @@
 三万多张，爱思助手备份要快一些，以后恢复到手机里也比较方便。用了不到一个小时就备份完了。爱思还有一个好处是会给图片按时间重命名。图像捕捉就不会，好在图片的创建日期是记录着的。
 图像捕捉就要慢一点，用了几个小时，备份加删除，昨晚中途还关机了，好在已经备份了两万多张，剩下不到六千张。早上起来抄经放着不管，抄完经也就处理完了。
 要学会断舍离，以后要定期清一下手机照片。</description>
-    </item>
-    
-    <item>
-      <title>下班路</title>
-      <link>//samhawthorne.github.io/2022/04/07/xiabanlu/</link>
-      <pubDate>Thu, 07 Apr 2022 11:03:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/07/xiabanlu/</guid>
-      <description>2022.04.09. 19:04
-下班去地铁站的路上，看到有个男人在拉小提琴，拉的不咋的，但风景很特别。</description>
     </item>
     
   </channel>
