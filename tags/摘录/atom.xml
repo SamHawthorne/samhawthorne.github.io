@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>IGGY 的博客</title>
-    <link>//samhawthorne.github.io/</link>
-    <description>Recent content on IGGY 的博客</description>
+    <title>摘录 on IGGY 的博客</title>
+    <link>//samhawthorne.github.io/tags/%E6%91%98%E5%BD%95/</link>
+    <description>Recent content in 摘录 on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 22 Apr 2022 00:48:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 00:48:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/tags/%E6%91%98%E5%BD%95/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>婚姻课堂解析 一</title>
       <link>//samhawthorne.github.io/2022/04/22/hunyinjiexi001/</link>
@@ -81,93 +81,6 @@
 所以，当你不不了解这些东西的时候，你所有的决定都只是针对于现在。但现在的所有的东西，你敢确定是你老年的时候所需要的吗？
 所以，为什么说所有婚姻的第一件事情，就是你必须先要有生命认知，对吧？当你清清楚楚知道你每一时刻，每一阶段你要碰到什么样的事情，你要经历什么样的事情，明白因为人生若无知，处处皆是意外。那你就不会只作出针对于现在的决定。</description>
     </item>
-    
-    <item>
-      <title>清了三万张照片</title>
-      <link>//samhawthorne.github.io/2022/04/12/cleanphoto/</link>
-      <pubDate>Tue, 12 Apr 2022 00:51:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/12/cleanphoto/</guid>
-      <description>2022.04.12. 08:43
-前天，昨天，今天，用了三天时间把iphone里的三万多张照片和视频清空了。
-从18年到2022年4月12日的三万多张照片，最后只留了26张在手机上。
-当然电脑里已经被备份了。
-用爱思助手和mac的图像捕捉分别备份了一次。
-应该没有图片误删。
-三万多张，爱思助手备份要快一些，以后恢复到手机里也比较方便。用了不到一个小时就备份完了。爱思还有一个好处是会给图片按时间重命名。图像捕捉就不会，好在图片的创建日期是记录着的。
-图像捕捉就要慢一点，用了几个小时，备份加删除，昨晚中途还关机了，好在已经备份了两万多张，剩下不到六千张。早上起来抄经放着不管，抄完经也就处理完了。
-要学会断舍离，以后要定期清一下手机照片。</description>
-    </item>
-    
-    <item>
-      <title>跑起来</title>
-      <link>//samhawthorne.github.io/2022/04/09/run/</link>
-      <pubDate>Sat, 09 Apr 2022 16:10:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/09/run/</guid>
-      <description>2022.04.10. 00:00
-晚上看了李一舟的课程，听他讲抖音，讲小红书。
-对抖音的那种流量思维又慢慢回想起来了。
-宝贝在旁边看qq相册，翻到以前做抖音拍养生茶的视频，一遍一遍地拍。当时觉得拍的不怎么样的视频，现在看来居然觉得还挺不错的。
-回想起以前做抖音的那段日子，真的有一种往前跑的感觉，很充实，很幸福。
-做抖音难吗？
-我觉得不难。
-重要的是要找回那种感觉，跑起来的感觉。
-一头扎进去的感觉。
-真的散漫太久了……
-忘了怎么跑了。
-那种感觉，你找回来了吗？</description>
-    </item>
-    
-    <item>
-      <title>下班路</title>
-      <link>//samhawthorne.github.io/2022/04/07/xiabanlu/</link>
-      <pubDate>Thu, 07 Apr 2022 11:03:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/07/xiabanlu/</guid>
-      <description>2022.04.09. 19:04
-下班去地铁站的路上，看到有个男人在拉小提琴，拉的不咋的，但风景很特别。</description>
-    </item>
-    
-    <item>
-      <title>部署成功总结</title>
-      <link>//samhawthorne.github.io/2022/04/06/bushu/</link>
-      <pubDate>Wed, 06 Apr 2022 00:10:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/06/bushu/</guid>
-      <description>用了两周时间，终于把网址成功部署到GitHub上了。
- https://samhawthorne.github.io/  这是网址↑↑↑
-总结一下部署的过程：
-  先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。
-  下载主题。用代码下载。
-  配置config.yml文件。
-  新建.github workflows两个文件夹。
-  配置自动化部署文件。notion_to_blog.yml和gh_pages.yml。
-  配置自动化脚本deploy.sh。
-  GitHub部署。
-  公钥密钥配置。
-  automate.io配置。
-  notion数据库配置。
-  notion API 配置。notion database id配置。
-  打开git bash。
-  同步本地和在线代码文件。git pull &amp;ndash;rebase origin develop。
-  运行自动化脚本deploy.sh。bash deploy.sh。
-  查看GitHub Action运行结果。
-  排查bug。
-  在notion写文章。
-  automate自动获取api同步到GitHub。只有新的一行automate才会读取。如果是更新原来的文章，需要手动在GitHub提交issue：notion-ci。</description>
-    </item>
-    
-    
-    <item>
-      <title>Links</title>
-      <link>//samhawthorne.github.io/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/links/</guid>
-      <description>links</description>
-    </item>
-    
     
   </channel>
 </rss>
