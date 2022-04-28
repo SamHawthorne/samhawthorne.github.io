@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>学习 on IGGY 的博客</title>
-    <link>//samhawthorne.github.io/tags/%E5%AD%A6%E4%B9%A0/</link>
-    <description>Recent content in 学习 on IGGY 的博客</description>
+    <title>术 on IGGY 的博客</title>
+    <link>//samhawthorne.github.io/tags/%E6%9C%AF/</link>
+    <description>Recent content in 术 on IGGY 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 28 Apr 2022 01:02:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/tags/%E5%AD%A6%E4%B9%A0/atom.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 01:02:00 +0000</lastBuildDate><atom:link href="//samhawthorne.github.io/tags/%E6%9C%AF/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学习技巧课 2022/04/22 学习认知和学习方面的术</title>
       <link>//samhawthorne.github.io/2022/04/28/xuexijiqiao20220422/</link>
@@ -79,55 +79,6 @@
 比如说“置之死地而后生”，它是经验还是规律？
 你也许有一次绝处逢生的经验，但你没看到的是更多的人，在绝处就真的“死”掉了（如果都能“活”下来就不叫死地了……）
 如果你把这个“经验”当成了“规律”，每次都主动把自己置于危险的境地，把后路全部断掉，告诉兄弟们，只有置之死地我们才能后生，那么结果就很悲剧了……</description>
-    </item>
-    
-    <item>
-      <title>跑起来</title>
-      <link>//samhawthorne.github.io/2022/04/09/run/</link>
-      <pubDate>Sat, 09 Apr 2022 16:10:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/09/run/</guid>
-      <description>2022.04.10. 00:00
-晚上看了李一舟的课程，听他讲抖音，讲小红书。
-对抖音的那种流量思维又慢慢回想起来了。
-宝贝在旁边看qq相册，翻到以前做抖音拍养生茶的视频，一遍一遍地拍。当时觉得拍的不怎么样的视频，现在看来居然觉得还挺不错的。
-回想起以前做抖音的那段日子，真的有一种往前跑的感觉，很充实，很幸福。
-做抖音难吗？
-我觉得不难。
-重要的是要找回那种感觉，跑起来的感觉。
-一头扎进去的感觉。
-真的散漫太久了……
-忘了怎么跑了。
-那种感觉，你找回来了吗？</description>
-    </item>
-    
-    <item>
-      <title>部署成功总结</title>
-      <link>//samhawthorne.github.io/2022/04/06/bushu/</link>
-      <pubDate>Wed, 06 Apr 2022 00:10:00 +0000</pubDate>
-      
-      <guid>//samhawthorne.github.io/2022/04/06/bushu/</guid>
-      <description>用了两周时间，终于把网址成功部署到GitHub上了。
- https://samhawthorne.github.io/  这是网址↑↑↑
-总结一下部署的过程：
-  先在本地创建hugo文件夹。下载hugo包到本地，新建bin和sites两个文件夹。把hugo压缩包里的文件全部解压到bin文件夹里面。
-  下载主题。用代码下载。
-  配置config.yml文件。
-  新建.github workflows两个文件夹。
-  配置自动化部署文件。notion_to_blog.yml和gh_pages.yml。
-  配置自动化脚本deploy.sh。
-  GitHub部署。
-  公钥密钥配置。
-  automate.io配置。
-  notion数据库配置。
-  notion API 配置。notion database id配置。
-  打开git bash。
-  同步本地和在线代码文件。git pull &amp;ndash;rebase origin develop。
-  运行自动化脚本deploy.sh。bash deploy.sh。
-  查看GitHub Action运行结果。
-  排查bug。
-  在notion写文章。
-  automate自动获取api同步到GitHub。只有新的一行automate才会读取。如果是更新原来的文章，需要手动在GitHub提交issue：notion-ci。</description>
     </item>
     
   </channel>
