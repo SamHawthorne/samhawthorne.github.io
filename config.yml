@@ -76,11 +76,11 @@ languages:
 params:
     env: production
     defaultTheme: auto
-    ShowShareButtons: true
-    ShowReadingTime: true
+    ShowShareButtons: false
+    ShowReadingTime: false
     ShowBreadCrumbs: true
     ShowToc: true
-    TocOpen: false
+    TocOpen: true
     ShowPostNavLinks: true
     comments: true
     homeInfoParams:
@@ -113,8 +113,8 @@ params:
           url: "https://samhawthorne.github.io"
         - name: RsS
           url: "atom.xml"
-        - name: Twitter
-          url: "https://twitter.com/akkum4n"
+        - name: qq
+          url: "mqqwpa://im/chat?chat_type=wpa&uin=2508869064&version=1&src_type=web"
         - name: email
           url: "mailto://2508869064@qq.com"
         - name: wechat
