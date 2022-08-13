@@ -81,14 +81,14 @@ params:
     ShowBreadCrumbs: true
     ShowToc: true
     TocOpen: true
-    ShowPostNavLinks: false
+    ShowPostNavLinks: true
     comments: true
     homeInfoParams:
         Title: "IGGY 的博客"
         Content: >
             欢迎来到 IGGY 的博客
 
-            - 这里有关修行、利益众生和日常随想
+            - 这里有关修行、利益众生和天地大道
         menu:
             main:
                 - name: 归档
