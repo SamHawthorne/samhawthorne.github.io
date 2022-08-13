@@ -81,7 +81,7 @@ params:
     ShowBreadCrumbs: true
     ShowToc: true
     TocOpen: true
-    ShowPostNavLinks: true
+    ShowPostNavLinks: false
     comments: true
     homeInfoParams:
         Title: "IGGY 的博客"
@@ -114,8 +114,7 @@ params:
         - name: RsS
           url: "atom.xml"
         - name: qq
-          url: "mqqwpa://im/chat?chat_type=wpa&uin=2508869064&version=1&src_type=web"
-        - name: email
+          url: "http://wpa.qq.com/msgrd?v=3&uin=2508869064&site=qq&menu=yes
           url: "mailto://2508869064@qq.com"
         - name: wechat
           url: "/images/wechat_contcat.jpg"
