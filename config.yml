@@ -115,6 +115,7 @@ params:
           url: "atom.xml"
         - name: qq
           url: "http://wpa.qq.com/msgrd?v=3&uin=2508869064&site=qq&menu=yes"
+        - name: email
           url: "mailto://2508869064@qq.com"
         - name: wechat
           url: "/images/wechat_contcat.jpg"
