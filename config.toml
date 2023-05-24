@@ -50,9 +50,9 @@ summaryLength = 200
 
 ## 侧边栏广告位
 [[params.ads]]
-  ## title = "【2019双12】ALL IN CLoud 低至1折"
-  ## url = "https://www.aliyun.com/minisite/goods?userCode=jdg9oj97&share_source=copy_link"
-  ## img = "https://img.alicdn.com/tfs/TB1_rYHo7P2gK0jSZPxXXacQpXa-690-388.jpg"
+  title = "我的微信"
+  url = "https://sunstars.ml/about/qrcode_for_weixin.jpg"
+  img = "https://sunstars.ml/about/qrcode_for_weixin.jpg"
 [[params.ads]]
   ## title = "助力产业智慧升级，云服务器首年88元起，更有千元代金券礼包免费领！"
   ## url = "https://cloud.tencent.com/act/cps/redirect?redirect=1048&cps_key=14ff722692ac784fa8c3301c8c28d924&from=console"
